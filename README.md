@@ -1,7 +1,7 @@
 # lsystem3d
 3D Lsystem Addon for Blender
 
-<img src="/images/hilburt3d.png" alt="hilburt3d" width="384" height="216"/><img src="/images/sierpenskiArrowhead.png" alt="sierpenskiArrowhead" width="384" height="216"/>
+<img src="/images/hilburt3d.png" alt="hilburt3d" width="216" height="216"/><img src="/images/sierpenskiArrowhead.png" alt="sierpenskiArrowhead" width="216" height="216"/><img src="/images/Board.png" alt="Board" width="216" height="216"/>
 
 This addon allows users to add mesh through Lindenmayer System (L-system).
 
